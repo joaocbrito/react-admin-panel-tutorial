@@ -1,5 +1,3 @@
-### Criação de um painel em React JS usando framework React Admin
-
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaocbrito/react-admin-tutorial?color=%2304D361">
 
@@ -19,6 +17,8 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
+
+### Criação de um painel em React JS usando framework React Admin
 
 Aplicação desenvolvida pelo post [How to create an admin panel in React JS ](https://dev.to/okeken/how-to-create-an-admin-panel-in-react-js-26d6)
 
