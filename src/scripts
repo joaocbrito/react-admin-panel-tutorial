@@ -1,0 +1,11 @@
+https://dev.to/okeken/how-to-create-an-admin-panel-in-react-js-26d6s
+
+// para criar o projeto
+npx create-react-app reactadmin
+
+// instalar as dependencias do painel
+npm i react-admin ra-data-json-server prop-types
+
+
+
+
