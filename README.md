@@ -1,5 +1,3 @@
-### :rocket: primeiro projeto completo com ReactJS + Typescript
-
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaocbrito/react-admin-tutorial?color=%2304D361">
 
